@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mastergo": {
+      "command": "npx",
+      "args": [
+        "@mastergo/magic-mcp",
+        "--token=YOUR_MASTERGO_TOKEN",
+        "--url=https://mastergo.com"
+      ],
+      "env": {},
+      "disabled": false
+    }
+  }
+}
