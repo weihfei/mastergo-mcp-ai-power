@@ -3,7 +3,7 @@ name: "mastergo-design-to-code"
 displayName: "MasterGo Design to Code"
 description: "根据 MasterGo 设计图自动生成前端页面代码，支持多种框架和组件库，通过交互式问答确保代码符合项目规范"
 keywords: ["mastergo", "design", "figma", "code-generation", "frontend", "ui"]
-author: "Kiro User"
+author: "weihefei"
 ---
 
 # MasterGo Design to Code
